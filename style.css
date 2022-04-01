@@ -1,0 +1,17 @@
+body {
+    background-image: url(https://i.postimg.cc/CMGVL1Qy/ranger-4df6c1b6.png);
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1 {
+    font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    font-weight:1000;
+    font-size: 50px;
+}
+button {
+    border-radius: 10%;
+    color:aliceblue;
+    background-color: black;
+}
+  
